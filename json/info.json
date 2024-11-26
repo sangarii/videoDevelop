@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Bacteria",
+        "img": "assets/image/bacteria.png"
+    },
+    {
+        "title": "Blood Cell",
+        "img": "assets/image/corona.png"
+    },
+    {
+        "title": "Corona",
+        "img": "assets/image/corona.png"
+    },
+    {
+        "title": "Virus",
+        "img": "assets/image/bact2.png"
+    },
+    {
+        "title": "Hand",
+        "img": "assets/image/hand.png"
+    },
+    {
+        "title": "Heart",
+        "img": "assets/image/heart.png"
+    }
+]
